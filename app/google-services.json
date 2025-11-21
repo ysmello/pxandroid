@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "724662622172",
+    "project_id": "brincadoteca-opet",
+    "storage_bucket": "brincadoteca-opet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724662622172:android:b3db78aaaf0c4af23c6119",
+        "android_client_info": {
+          "package_name": "com.cronus.brincadoteca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724662622172-2itpg2m0m0m39fj51aqh133n5tsmvunv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOtS-6ad73G7-YaiuRL2qG2apull-k0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724662622172-2itpg2m0m0m39fj51aqh133n5tsmvunv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724662622172:android:3cdd9ef7fbf24f2b3c6119",
+        "android_client_info": {
+          "package_name": "com.example.pxandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724662622172-2itpg2m0m0m39fj51aqh133n5tsmvunv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOtS-6ad73G7-YaiuRL2qG2apull-k0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724662622172-2itpg2m0m0m39fj51aqh133n5tsmvunv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
