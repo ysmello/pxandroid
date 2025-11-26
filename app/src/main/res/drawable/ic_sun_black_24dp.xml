@@ -1,0 +1,45 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Círculo central do sol -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M12,6a6,6 0 1,0 0,12a6,6 0 1,0 0,-12z" />
+
+    <!-- Raios -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M11,1h2v3h-2z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M11,20h2v3h-2z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M1,11h3v2H1z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M20,11h3v2h-3z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M4.22,4.22l1.41,-1.41 2.12,2.12 -1.41,1.41z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M16.24,16.24l1.41,-1.41 2.12,2.12 -1.41,1.41z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M4.22,19.78l2.12,-2.12 1.41,1.41 -2.12,2.12z" />
+
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M16.24,7.76l2.12,-2.12 1.41,1.41 -2.12,2.12z" />
+
+</vector>
